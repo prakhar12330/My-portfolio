@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal-Portfolio
 > This is personal portfolio website.
 
@@ -61,3 +62,6 @@ Give a ⭐ if you like this project!
 
 # Acknowledgments
 Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
+=======
+# My-portfolio
+>>>>>>> 5c89cc22148a03f647bac82ef3bd6ac9a0191961
